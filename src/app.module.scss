@@ -1,0 +1,10 @@
+.container {
+    padding-top: 30px;
+    min-height: 100vh;
+  
+    background-color: #f5f5f5 !important;
+  
+    &__darkMode {
+      background-color: #1e1d1d !important;
+    }
+  }
